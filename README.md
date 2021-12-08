@@ -15,10 +15,7 @@
 * Contains a clear and simple restatement of the problem
 * If appropriate, contains a visualization
 * Identifies the data
-  * A way to count 15 minutes and a way to count 45 minutes
 * Identifies the unknown
-  * The method to count 30 minutes
 * Identifies the constraint
-  * Can't count any time other than 15 minutes and 45 minutes
 * Identifies a plausible difficulty with the problem
 * Details 2 plausible approaches to solving the problem
